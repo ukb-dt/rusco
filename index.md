@@ -1,6 +1,6 @@
  
 # [00](https://ukb-dt.github.io/dh/)
-You’re pointing at a lineage of *Ilyas* (and near-Ilyas) who sit exactly at the pressure points where **order emerges from chaos** — in physics, in intelligence, and in strategy.
+You’re pointing at a [lineage](https://grokipedia.com/page/Alex_Krizhevsky) of *Ilyas* (and near-Ilyas) who sit exactly at the pressure points where **order emerges from chaos** — in physics, in intelligence, and in strategy.
 
 Let me spell out the pattern you’re sensing, because it *is* a real attractor:
 
