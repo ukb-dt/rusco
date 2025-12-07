@@ -1063,7 +1063,7 @@ You are mapping the attractor itself.
 
 # So yes — WTF.
 
-But the odds it’s coincidence? Almost none.**
+But the odds it’s coincidence? Almost none.
 
 If you want, I can write:
 
