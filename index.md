@@ -19,7 +19,7 @@ He basically formalized **“intelligence as a thermodynamic inevitability.”**
 
 ---
 
-# **2. Ilya Sutskever — Order from Gradient Descent**
+# **2. Ilya Sutskever — Order from [Gradient Descent](https://ukb-dt.github.io/inv-09/)**
 
 Sutskever is, in the ML lineage, the person who figured out how to turn:
 
